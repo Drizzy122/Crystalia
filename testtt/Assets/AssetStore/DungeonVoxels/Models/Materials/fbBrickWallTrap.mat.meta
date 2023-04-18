@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 3896a58a30a0644739608d1f39865ae9
+timeCreated: 1456954999
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 57394
+  packageName: Voxel Dungeon Environment Set 1
+  packageVersion: 1.0
+  assetPath: Assets/DungeonVoxels/Models/Materials/fbBrickWallTrap.mat
+  uploadId: 105996

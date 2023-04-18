@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b0b1b78b18bda4b70933750539fef445
+timeCreated: 1456984201
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 57394
+  packageName: Voxel Dungeon Environment Set 1
+  packageVersion: 1.0
+  assetPath: Assets/DungeonVoxels/Prefabs/fbBrickBars.prefab
+  uploadId: 105996

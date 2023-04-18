@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: cc19874c432154f23aadaf69b6fd9c14
+timeCreated: 1456983110
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 57394
+  packageName: Voxel Dungeon Environment Set 1
+  packageVersion: 1.0
+  assetPath: Assets/DungeonVoxels/Prefabs/fbBrickWallWell.prefab
+  uploadId: 105996

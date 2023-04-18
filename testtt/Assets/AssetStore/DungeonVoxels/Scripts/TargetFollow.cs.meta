@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 1d3b47c9c1fc348c38adad591722a502
+timeCreated: 1457023038
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 57394
+  packageName: Voxel Dungeon Environment Set 1
+  packageVersion: 1.0
+  assetPath: Assets/DungeonVoxels/Scripts/TargetFollow.cs
+  uploadId: 105996

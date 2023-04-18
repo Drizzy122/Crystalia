@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b43b669b3f2c34cec8b2ec2f921e6d35
+timeCreated: 1457019857
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 57394
+  packageName: Voxel Dungeon Environment Set 1
+  packageVersion: 1.0
+  assetPath: Assets/DungeonVoxels/Prefabs/fbKnight.prefab
+  uploadId: 105996

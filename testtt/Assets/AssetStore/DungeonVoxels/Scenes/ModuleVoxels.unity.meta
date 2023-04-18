@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 112b26611781c487abfd3f3618d9ff42
+timeCreated: 1457026523
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 57394
+  packageName: Voxel Dungeon Environment Set 1
+  packageVersion: 1.0
+  assetPath: Assets/DungeonVoxels/Scenes/ModuleVoxels.unity
+  uploadId: 105996

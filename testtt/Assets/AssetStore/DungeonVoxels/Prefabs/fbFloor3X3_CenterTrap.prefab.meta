@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 19e53f30d210741208efc532f754f303
+timeCreated: 1457025123
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 57394
+  packageName: Voxel Dungeon Environment Set 1
+  packageVersion: 1.0
+  assetPath: Assets/DungeonVoxels/Prefabs/fbFloor3X3_CenterTrap.prefab
+  uploadId: 105996

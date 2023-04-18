@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: eed488c8780e64670b02a7fc1e5acdea
+timeCreated: 1456983583
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 57394
+  packageName: Voxel Dungeon Environment Set 1
+  packageVersion: 1.0
+  assetPath: Assets/DungeonVoxels/Prefabs/fbPlankBridge.prefab
+  uploadId: 105996

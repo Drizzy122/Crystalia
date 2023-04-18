@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 1f2d221eb8507428db338440cd2ac027
+timeCreated: 1457025229
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 57394
+  packageName: Voxel Dungeon Environment Set 1
+  packageVersion: 1.0
+  assetPath: Assets/DungeonVoxels/Prefabs/fbFloor3X3Alt_DualTrap.prefab
+  uploadId: 105996

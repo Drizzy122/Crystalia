@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 131ae0cc912d34a739d3409e70328ea6
+timeCreated: 1456980157
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 57394
+  packageName: Voxel Dungeon Environment Set 1
+  packageVersion: 1.0
+  assetPath: Assets/DungeonVoxels/Models/Materials/fbWater.mat
+  uploadId: 105996

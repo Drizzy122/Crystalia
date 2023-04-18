@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f05902f6ea4a44654b2f50a553e1485a
+timeCreated: 1456980158
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 57394
+  packageName: Voxel Dungeon Environment Set 1
+  packageVersion: 1.0
+  assetPath: Assets/DungeonVoxels/Models/Materials/fbKnight.mat
+  uploadId: 105996

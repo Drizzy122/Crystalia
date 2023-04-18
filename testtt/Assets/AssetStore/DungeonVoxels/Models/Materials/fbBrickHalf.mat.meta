@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 23b9b211a4cea4f93a076a02dcf63e30
+timeCreated: 1456980158
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 57394
+  packageName: Voxel Dungeon Environment Set 1
+  packageVersion: 1.0
+  assetPath: Assets/DungeonVoxels/Models/Materials/fbBrickHalf.mat
+  uploadId: 105996

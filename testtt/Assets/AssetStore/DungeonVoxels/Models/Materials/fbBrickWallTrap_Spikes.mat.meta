@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 648247c9e396a456ea6aff3dc34cd3b1
+timeCreated: 1456954999
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 57394
+  packageName: Voxel Dungeon Environment Set 1
+  packageVersion: 1.0
+  assetPath: Assets/DungeonVoxels/Models/Materials/fbBrickWallTrap_Spikes.mat
+  uploadId: 105996
