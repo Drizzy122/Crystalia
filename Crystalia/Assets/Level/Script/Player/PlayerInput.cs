@@ -75,8 +75,8 @@ public partial class @PlayerInput : IInputActionCollection2, IDisposable
             ],
             ""bindings"": [
                 {
-                    ""name"": ""WASD"",
-                    ""id"": ""c261a935-8c36-4f80-b75a-4f3aad02286f"",
+                    ""name"": ""wasd"",
+                    ""id"": ""3f4a4f5e-072e-45d2-9f89-58c69dda5f31"",
                     ""path"": ""2DVector"",
                     ""interactions"": """",
                     ""processors"": """",
@@ -87,7 +87,7 @@ public partial class @PlayerInput : IInputActionCollection2, IDisposable
                 },
                 {
                     ""name"": ""up"",
-                    ""id"": ""afbd42a8-a15a-4c75-8699-e5b36ed87c62"",
+                    ""id"": ""4c071ca5-ec92-4513-bc65-1c994346ed97"",
                     ""path"": ""<Keyboard>/w"",
                     ""interactions"": """",
                     ""processors"": """",
@@ -98,7 +98,7 @@ public partial class @PlayerInput : IInputActionCollection2, IDisposable
                 },
                 {
                     ""name"": ""down"",
-                    ""id"": ""89dd4d4b-f247-45ca-95c7-7b84cbe7fab3"",
+                    ""id"": ""f7e674d1-84f6-4f1f-9ca9-670ee495cd97"",
                     ""path"": ""<Keyboard>/s"",
                     ""interactions"": """",
                     ""processors"": """",
@@ -109,7 +109,7 @@ public partial class @PlayerInput : IInputActionCollection2, IDisposable
                 },
                 {
                     ""name"": ""left"",
-                    ""id"": ""8a286b1f-5f3b-4cc2-8ce1-3f17543a9755"",
+                    ""id"": ""63a2f33d-07d5-47b8-98d3-338a643183d8"",
                     ""path"": ""<Keyboard>/a"",
                     ""interactions"": """",
                     ""processors"": """",
@@ -120,7 +120,7 @@ public partial class @PlayerInput : IInputActionCollection2, IDisposable
                 },
                 {
                     ""name"": ""right"",
-                    ""id"": ""c5128e98-a949-4c03-951d-a14f6bb2c4a9"",
+                    ""id"": ""5c0f07f6-42e3-49a1-9924-09298630e3dd"",
                     ""path"": ""<Keyboard>/d"",
                     ""interactions"": """",
                     ""processors"": """",
