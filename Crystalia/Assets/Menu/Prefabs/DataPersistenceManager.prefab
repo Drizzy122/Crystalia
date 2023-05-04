@@ -30,7 +30,7 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: -1
+  m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!114 &6384776845225573085
 MonoBehaviour:
@@ -47,7 +47,7 @@ MonoBehaviour:
   disableDataPersistence: 0
   initializeDataIfNull: 0
   overrideSelectedProfileId: 0
-  TestSelectedProfileId: test
-  fileName: game.data
-  useEncryption: 1
+  TestSelectedProfileId: Crystalia
+  fileName: Crystalia.Json
+  useEncryption: 0
   autoSaveTimeSeconds: 5
