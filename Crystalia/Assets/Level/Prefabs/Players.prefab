@@ -679,6 +679,7 @@ MonoBehaviour:
   attackRange: 2.05
   EIList: []
   animator: {fileID: 943935099257584523}
+  playerAttributesSO: {fileID: 0}
 --- !u!114 &943935099257584516
 MonoBehaviour:
   m_ObjectHideFlags: 0

@@ -61,8 +61,8 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: -876546973899608171, guid: 3e20a73ac47ab664ea4d20850da4f714, type: 3}
-  - {fileID: -8067726398312463513, guid: e7050627d3ccc3d4f9a6293595ed7a84, type: 3}
+  - {fileID: 2100000, guid: 47ec96ad66eabe74fb6b030f217e4da6, type: 2}
+  - {fileID: 2100000, guid: 47ec96ad66eabe74fb6b030f217e4da6, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -5042,7 +5042,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   coin: {fileID: 8300000, guid: 80b4e371b8f166246a91193ab991b9e3, type: 3}
-  id: 5ae57d09-f88f-4e54-a145-e9fb822553c4
+  id: 94b09f8e-abb3-4a7d-bd0a-31012d50186a
   visual: {fileID: 8358214822488782716}
 --- !u!65 &6519888846886436870
 BoxCollider:
