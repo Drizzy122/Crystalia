@@ -50,7 +50,7 @@ public class SettingsManager : MonoBehaviour
         {
             Load();
         }
-        Debug.Log("MenuManager.Start() completed successfully.");
+        
     }
 
     public void ChangeVolume()

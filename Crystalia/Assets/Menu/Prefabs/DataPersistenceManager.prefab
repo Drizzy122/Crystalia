@@ -50,4 +50,4 @@ MonoBehaviour:
   TestSelectedProfileId: Crystalia
   fileName: Crystalia.Json
   useEncryption: 0
-  autoSaveTimeSeconds: 5
+  autoSaveTimeSeconds: 20

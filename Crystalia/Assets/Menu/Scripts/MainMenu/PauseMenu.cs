@@ -15,15 +15,24 @@ public class PauseMenu : MonoBehaviour
     [SerializeField] private GameObject pauseUI;
 
     // Boolean to keep track of whether the game is paused or not
-    [SerializeField] private bool isPaused;
+    [SerializeField] private bool isPaused = false;
+
 
     void Start()
     {
-        // Cursor.lockState = CursorLockMode.Locked;
-        // Cursor.visible = false;
-        AudioListener.pause = false;
-
+        if (!isPaused)
+        {
+            // Resume in-game time
+            Time.timeScale = 1;
+            // Unpause audio
+            AudioListener.pause = false;
+            // Deactivate the pause menu UI
+            pauseUI.SetActive(false);
+            // Set isPaused to false
+            isPaused = false;
+        }
     }
+
 
 
     // Initialize playerControl when the script starts
@@ -41,6 +50,7 @@ public class PauseMenu : MonoBehaviour
         menu.Enable();
         // Add a callback method to be called when the escape menu action is performed
         menu.performed += Pause;
+       // menu.canceled += Pause;
     }
 
     // Disable the menu action when the script is disabled

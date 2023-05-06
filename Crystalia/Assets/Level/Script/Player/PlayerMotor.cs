@@ -107,17 +107,11 @@ public class PlayerMotor : MonoBehaviour, IDataPersistence
         {
             speed = 5;
             animator.SetBool("IsRunning", true);
-
-            // add an impulse to the player's movement when they start sprinting
-           // playerVelocity += transform.forward * 5f;
         }
         else
         {
             speed = 3;
             animator.SetBool("IsRunning", false);
-
-            // reset playerVelocity when the player stops sprinting
-          //  playerVelocity = Vector3.zero;
         }
     }
 
@@ -164,11 +158,6 @@ public class PlayerMotor : MonoBehaviour, IDataPersistence
             EIList.Remove(other.gameObject);
         }
     }
-
-    
-
-   
-
     private void OnDrawGizmosSelected()
     {
         Gizmos.color = Color.red;
