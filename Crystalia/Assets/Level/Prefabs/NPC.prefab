@@ -323,7 +323,7 @@ Transform:
   - {fileID: 907405377901765185}
   - {fileID: 7173754573053142890}
   m_Father: {fileID: 0}
-  m_RootOrder: 5
+  m_RootOrder: 10
   m_LocalEulerAnglesHint: {x: 0, y: -80, z: 0}
 --- !u!95 &8805258545552513538
 Animator:
@@ -361,21 +361,7 @@ MonoBehaviour:
   roamRadius: 10
   wanderDelay: 5
   animator: {fileID: 8805258545552513538}
-  waypoints:
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
+  waypoints: []
 --- !u!195 &6110371827541715071
 NavMeshAgent:
   m_ObjectHideFlags: 0
